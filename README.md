@@ -2,12 +2,13 @@
 
 
 <h2>Description</h2>
+<br>
 There are three learning objectives for this lab: <br>
-
+<br>
 Update- The machine I used came preinstalled with an old version of the VLC Media Player. I updated VLC to the newest version. <br>
-
+<br>
 Install- l installed the Mozilla Firefox web browser. There was no version of Firefox on the machine beforehand. <br>
-
+<br>
 Uninstall - I uninstall the GIMP photo-editing tool from the machine, removing it entirely. <br>
 <br />
 
@@ -17,7 +18,7 @@ Uninstall - I uninstall the GIMP photo-editing tool from the machine, removing i
 1. Checked if Firefox is installed using the command ```dpkg-s```. This showed Firefox is not installed on the system. <br>
 2. Checked if GIMP is installed. <br>
 3. Ran ```dpkg -s vlc``` showed that vlc is installed but the version is out of date. <br>
-<img src="https://github.com/Bridgetanntighe/Install-updates-windows/assets/134883216/358e809c-d1b2-421f-b705-73f080ae0824" height="80%" width="80%" alt="Installing"/><br>
+<img src="https://github.com/Bridgetanntighe/Install-updates-windows/assets/134883216/358e809c-d1b2-421f-b705-73f080ae0824" height="50%" width="50%" alt="Installing"/><br>
 <img src="https://github.com/Bridgetanntighe/Install-updates-windows/assets/134883216/f33d71a8-ca1f-48e2-9171-cacdeb538d35" height="50%" width="50%" alt="Installing"/><br>
 
 
